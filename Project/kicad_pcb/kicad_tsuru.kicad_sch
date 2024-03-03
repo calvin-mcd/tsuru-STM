@@ -3712,7 +3712,7 @@
     (property "Value" "SKQGABE010" (at 248.92 140.335 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-various:SW_SPST_SKQG_WithStem" (at 245.11 139.065 0)
+    (property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK" (at 245.11 139.065 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 245.11 139.065 0)

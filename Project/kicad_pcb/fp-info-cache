@@ -1,4 +1,4 @@
-21972655277360019
+21981465870539221
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -66129,6 +66129,34 @@ LiIon LiPo battery charger management usb power path switch-mode step-down buck
 24
 24
 PCM_marbastlib-xp-various
+Molex_Pico-EZmate_HC_208294-0020_1x02-1MP_P1.80mm_Vertical
+Molex Pico-EZmate series connector, 208294-0020 (https://www.molex.com/en-us/products/part-detail/2082940020)
+connector Molex Pico-EZmate side entry
+0
+16
+3
+PCM_marbastlib-xp-various
+Molex_Pico-EZmate_HC_208294-0030_1x03-1MP_P1.80mm_Vertical
+Molex Pico-EZmate series connector, 208294-0030 (https://www.molex.com/en-us/products/part-detail/2082940030)
+connector Molex Pico-EZmate side entry
+0
+17
+4
+PCM_marbastlib-xp-various
+Molex_Pico-EZmate_HC_208294-0040_1x04-1MP_P1.80mm_Vertical
+Molex Pico-EZmate series connector, 208294-0030 (https://www.molex.com/en-us/products/part-detail/2082940040)
+connector Molex Pico-EZmate side entry
+0
+18
+5
+PCM_marbastlib-xp-various
+Molex_Pico-EZmate_HC_208294-0050_1x05-1MP_P1.80mm_Vertical
+Molex Pico-EZmate series connector, 208294-0030 (https://www.molex.com/en-us/products/part-detail/2082940040)
+connector Molex Pico-EZmate side entry
+0
+19
+6
+PCM_marbastlib-xp-various
 PNT_psp1000
 Footprint for a PSP-1000 joystick
 psp joystick analog
@@ -66142,6 +66170,13 @@ stm32 arm wireless bluetooth low energy ble zigbee
 0
 86
 86
+PCM_marbastlib-xp-various
+XUNPU_FPC-05F-16PH20_1x16-1MP_P0.5mm_Horizontal
+XUNPU FPC connector, 16 bottom-side contacts, 0.5mm pitch, SMT, https://datasheet.lcsc.com/lcsc/2109221030_XUNPU-FPC-05F-16PH20_C2856801.pdf
+XUNPU  fpc FPC-05F-16PH20
+0
+18
+17
 PCM_marbastlib-xp-various
 nRF52840_holyiot_18010_HS
 Module containing a nRF52840 and most passives and antenna
