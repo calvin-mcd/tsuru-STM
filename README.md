@@ -1,5 +1,7 @@
 # 鶴の恩返し (Tsuru No Ongaeshi) STM
 
+***Beware, I am planning to make some changes to the PCB, do not use this to order PCBs right now***
+
 This is a version of apfel's aka kilipan's cute lil 3-row, katana-staggered keyboard with ISO-Enter compatibility that uses the cheaper, albeit not quite as handsolder friendly STM31f072 to support qmk and vial.
 
 the OG board can be found here [link](https://github.com/kilipan/tsuru)!!!
