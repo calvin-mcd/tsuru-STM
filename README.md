@@ -5,7 +5,9 @@ This is a version of apfel's aka kilipan's cute lil 3-row, katana-staggered keyb
 the OG board can be found here [link](https://github.com/kilipan/tsuru)!!!
 
 ## Layout
-![KLE](https://github.com/kilipan/tsuru/blob/main/img/tsuru_KLE.png?raw=true)
+
+![](https://github.com/calvin-mcd/tsuru-STM/blob/main/Images/KLE.png)
+[Link](http://www.keyboard-layout-editor.com/#/gists/f193ae95ffd2e6cdb0e6a815faa832f7)
 
 ## Images
 
