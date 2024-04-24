@@ -13,14 +13,9 @@ the OG board can be found here [link](https://github.com/kilipan/tsuru)!!!
 
 ![tsuru](https://github.com/kilipan/tsuru/blob/main/img/tsuru_photo.jpg?raw=true)
 
-## Todo
-
-- [ ] order & test pcb
-- [ ] create & test vial firmware
-
 ## Disclaimer
 
-Please note that this project is a work in progress with no guarantees of a working outcome. No-one involved in this project is responsible for any usage issues that may arise. However, feel free to edit, modify and otherwise utilise these files.
+This PCB has been fully tested and is confirmed to work. However, no-one involved in this project is responsible for any usage issues that may arise. Order at your own risk. Feel free to edit, modify and otherwise utilise these files.
 
 ## License
 
