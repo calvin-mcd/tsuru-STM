@@ -1,6 +1,6 @@
 # 鶴の恩返し (Tsuru No Ongaeshi) STM
 
-This is a version of apfel's aka kilipan's cute lil 3-row, katana-staggered keyboard with ISO-Enter compatibility that uses the cheaper, albeit not quite as handsolder friendly STM31f072 to support qmk and vial. It also sports optional [underglow](https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_OPSCO-Optoelectronics-SK6812_C5378720.html) which requires you to handsolder the leds and bridge the rgb jumperpad to activate. 
+This is a version of apfel's aka kilipan's cute lil 3-row, katana-staggered keyboard with ISO-Enter compatibility that uses the cheaper, albeit not quite as handsolder friendly STM32f072 to support qmk and vial. It also sports optional [underglow](https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_OPSCO-Optoelectronics-SK6812_C5378720.html) which requires you to handsolder the leds and bridge the rgb jumperpad to activate. 
 
 the OG board can be found here [link](https://github.com/kilipan/tsuru)!!!
 
